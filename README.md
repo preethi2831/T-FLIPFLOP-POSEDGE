@@ -28,7 +28,6 @@ From the above characteristic table, we can directly write the next state equati
 
 **Procedure**
 
-/* write all the steps invloved */
 
 Step 1: Open Quartus II in your laptop.
 
