@@ -66,6 +66,7 @@ assign q_bar = ~q;
 endmodule
 ```
 
+
 **RTL LOGIC FOR FLIPFLOPS**
 
 ![image](https://github.com/preethi2831/T-FLIPFLOP-POSEDGE/assets/155142246/9645788e-b3a5-46b7-853c-ce2195716945)
